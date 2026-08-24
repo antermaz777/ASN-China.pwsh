@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-08-23 02:19:36",
+    "last_updated_utc": "2026-08-24 02:18:09",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5228
+    "entry_count": 5227
   },
   "asns": [
     {
@@ -35,12 +35,12 @@
       "asn_name": "China Unicom Backbone"
     },
     {
-      "asn_number": 4809,
-      "asn_name": "China Telecom Next Generation Carrier Network"
-    },
-    {
       "asn_number": 10111,
       "asn_name": "Zeofast Network"
+    },
+    {
+      "asn_number": 4809,
+      "asn_name": "China Telecom Next Generation Carrier Network"
     },
     {
       "asn_number": 4808,
@@ -135,12 +135,12 @@
       "asn_name": "Tianhai InfoTech"
     },
     {
-      "asn_number": 140633,
-      "asn_name": "BILIBILI HK LIMITED"
-    },
-    {
       "asn_number": 146834,
       "asn_name": "SiChuan XunYou Network Technologe Limit, co"
+    },
+    {
+      "asn_number": 140633,
+      "asn_name": "BILIBILI HK LIMITED"
     },
     {
       "asn_number": 37963,
@@ -167,16 +167,16 @@
       "asn_name": "China Telecom (Group)"
     },
     {
-      "asn_number": 44421,
-      "asn_name": "Yifu Yu"
-    },
-    {
       "asn_number": 24490,
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
     },
     {
       "asn_number": 137995,
       "asn_name": "Shuangyu Communications Technology Co., Limited"
+    },
+    {
+      "asn_number": 44421,
+      "asn_name": "Yifu Yu"
     },
     {
       "asn_number": 137718,
@@ -407,10 +407,6 @@
       "asn_name": "Beijing Gu Xiang Information Technology Co.,Ltd."
     },
     {
-      "asn_number": 201674,
-      "asn_name": "Wen ZhangYu"
-    },
-    {
       "asn_number": 17962,
       "asn_name": "ShenZhen Topway Video Communication Co. Ltd"
     },
@@ -541,6 +537,10 @@
     {
       "asn_number": 23844,
       "asn_name": "Beijing Guanghuan Xinwang Digital"
+    },
+    {
+      "asn_number": 201674,
+      "asn_name": "Wen ZhangYu"
     },
     {
       "asn_number": 18241,
@@ -2317,10 +2317,6 @@
     {
       "asn_number": 151951,
       "asn_name": "Shenzhen lesuyun Network Technology Co., Ltd"
-    },
-    {
-      "asn_number": 151640,
-      "asn_name": "Bengbu Qingye Technology"
     },
     {
       "asn_number": 151464,
