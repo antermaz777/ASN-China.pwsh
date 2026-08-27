@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-08-26 02:20:00",
+    "last_updated_utc": "2026-08-27 10:47:54",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5228
   },
@@ -15,12 +15,12 @@
       "asn_name": "Tencent Building, Kejizhongyi Avenue"
     },
     {
-      "asn_number": 4134,
-      "asn_name": "China Telecom Backbone"
-    },
-    {
       "asn_number": 45102,
       "asn_name": "Alibaba (US) Technology Co., Ltd."
+    },
+    {
+      "asn_number": 4134,
+      "asn_name": "China Telecom Backbone"
     },
     {
       "asn_number": 55967,
@@ -87,12 +87,12 @@
       "asn_name": "China Telecom (Group)"
     },
     {
-      "asn_number": 24400,
-      "asn_name": "Shanghai Mobile Communications Co.,Ltd."
-    },
-    {
       "asn_number": 17621,
       "asn_name": "China Unicom Shanghai network"
+    },
+    {
+      "asn_number": 24400,
+      "asn_name": "Shanghai Mobile Communications Co.,Ltd."
     },
     {
       "asn_number": 142111,
@@ -139,12 +139,12 @@
       "asn_name": "Tianhai InfoTech"
     },
     {
-      "asn_number": 146834,
-      "asn_name": "SiChuan XunYou Network Technologe Limit, co"
-    },
-    {
       "asn_number": 140633,
       "asn_name": "BILIBILI HK LIMITED"
+    },
+    {
+      "asn_number": 146834,
+      "asn_name": "SiChuan XunYou Network Technologe Limit, co"
     },
     {
       "asn_number": 37963,
@@ -195,12 +195,12 @@
       "asn_name": "CHINANET Guangdong province network"
     },
     {
-      "asn_number": 59045,
-      "asn_name": "Guangzhou navigation information technology co., LTD"
-    },
-    {
       "asn_number": 56046,
       "asn_name": "China Mobile communications corporation"
+    },
+    {
+      "asn_number": 59045,
+      "asn_name": "Guangzhou navigation information technology co., LTD"
     },
     {
       "asn_number": 38365,
@@ -447,10 +447,6 @@
       "asn_name": "AIPO Cloud (Guizhou) Technology Co., Ltd."
     },
     {
-      "asn_number": 137758,
-      "asn_name": "Industrial and Commercial Bank of China Limited,ICBC"
-    },
-    {
       "asn_number": 137746,
       "asn_name": "APNIC ASN block"
     },
@@ -597,6 +593,10 @@
     {
       "asn_number": 138538,
       "asn_name": "VPSOR-GLOBAL"
+    },
+    {
+      "asn_number": 137758,
+      "asn_name": "Industrial and Commercial Bank of China Limited,ICBC"
     },
     {
       "asn_number": 137697,
@@ -753,10 +753,6 @@
     {
       "asn_number": 45061,
       "asn_name": "Shanghai Information Network Co.,Ltd."
-    },
-    {
-      "asn_number": 42962,
-      "asn_name": "CoreLink Network"
     },
     {
       "asn_number": 38358,
@@ -1135,6 +1131,10 @@
       "asn_name": "APNIC ASN block"
     },
     {
+      "asn_number": 59077,
+      "asn_name": "Shanghai UCloud Information Technology Company Limited"
+    },
+    {
       "asn_number": 59073,
       "asn_name": "Bank of China Limited"
     },
@@ -1239,6 +1239,10 @@
       "asn_name": "China UNICOM, Beijing Branch"
     },
     {
+      "asn_number": 42962,
+      "asn_name": "CoreLink Network"
+    },
+    {
       "asn_number": 38834,
       "asn_name": "NVIDIA-BANGALORE"
     },
@@ -1323,10 +1327,6 @@
       "asn_name": "Wende Tan"
     },
     {
-      "asn_number": 203309,
-      "asn_name": "Liangyi Ma"
-    },
-    {
       "asn_number": 201944,
       "asn_name": "HaoRan Liu"
     },
@@ -1357,10 +1357,6 @@
     {
       "asn_number": 153911,
       "asn_name": "DuoTu Cloud"
-    },
-    {
-      "asn_number": 153376,
-      "asn_name": "Jilin Province Brick Business Service Limited"
     },
     {
       "asn_number": 152711,
@@ -1923,10 +1919,6 @@
       "asn_name": "SHANXI CABLE&BROADCASTING INFORMATION NETWORK"
     },
     {
-      "asn_number": 59077,
-      "asn_name": "Shanghai UCloud Information Technology Company Limited"
-    },
-    {
       "asn_number": 59064,
       "asn_name": "The North United Cable Network.Inc"
     },
@@ -2259,6 +2251,10 @@
       "asn_name": "Hainan Jinzhao Biotechnology Co. Ltd."
     },
     {
+      "asn_number": 203309,
+      "asn_name": "Liangyi Ma"
+    },
+    {
       "asn_number": 203236,
       "asn_name": "Mingyang Shen"
     },
@@ -2317,6 +2313,10 @@
     {
       "asn_number": 154010,
       "asn_name": "Xi'an WeiShiJi Network Technology LTD"
+    },
+    {
+      "asn_number": 153376,
+      "asn_name": "Jilin Province Brick Business Service Limited"
     },
     {
       "asn_number": 153168,
@@ -2385,10 +2385,6 @@
     {
       "asn_number": 149511,
       "asn_name": "Yamu Technologies Co., Ltd."
-    },
-    {
-      "asn_number": 149510,
-      "asn_name": "Feng Libo"
     },
     {
       "asn_number": 149464,
@@ -3641,6 +3637,10 @@
     {
       "asn_number": 150141,
       "asn_name": "Wang Jiacheng"
+    },
+    {
+      "asn_number": 149510,
+      "asn_name": "Feng Libo"
     },
     {
       "asn_number": 146816,
