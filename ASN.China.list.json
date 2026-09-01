@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-08-31 06:28:38",
+    "last_updated_utc": "2026-09-01 05:55:03",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5232
   },
@@ -239,10 +239,6 @@
       "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
     },
     {
-      "asn_number": 204211,
-      "asn_name": "Hangzhou Yingyun Network Technology Co., Ltd."
-    },
-    {
       "asn_number": 139138,
       "asn_name": "Gopay Information Technology Co.,Ltd"
     },
@@ -285,6 +281,10 @@
     {
       "asn_number": 212237,
       "asn_name": "Changgong Zhang"
+    },
+    {
+      "asn_number": 204211,
+      "asn_name": "Hangzhou Yingyun Network Technology Co., Ltd."
     },
     {
       "asn_number": 17428,
@@ -411,10 +411,6 @@
       "asn_name": "Beijing Gu Xiang Information Technology Co.,Ltd."
     },
     {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
-    },
-    {
       "asn_number": 17962,
       "asn_name": "ShenZhen Topway Video Communication Co. Ltd"
     },
@@ -539,6 +535,10 @@
       "asn_name": "XIAO YANG WEN RUI"
     },
     {
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
+    },
+    {
       "asn_number": 201674,
       "asn_name": "Wen ZhangYu"
     },
@@ -653,6 +653,10 @@
     {
       "asn_number": 63838,
       "asn_name": "China Telecom Hengyang"
+    },
+    {
+      "asn_number": 63835,
+      "asn_name": "China Telecom HuNan Changsha IDC"
     },
     {
       "asn_number": 63701,
@@ -1085,10 +1089,6 @@
     {
       "asn_number": 7609,
       "asn_name": "Morgan Stanley Management Service (Shanghai) Limited"
-    },
-    {
-      "asn_number": 63835,
-      "asn_name": "China Telecom HuNan Changsha IDC"
     },
     {
       "asn_number": 63727,
