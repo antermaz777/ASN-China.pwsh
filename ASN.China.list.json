@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-09-01 05:55:03",
+    "last_updated_utc": "2026-09-02 05:18:02",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5232
+    "entry_count": 5231
   },
   "asns": [
     {
@@ -15,12 +15,12 @@
       "asn_name": "Tencent Building, Kejizhongyi Avenue"
     },
     {
-      "asn_number": 4134,
-      "asn_name": "China Telecom Backbone"
-    },
-    {
       "asn_number": 45102,
       "asn_name": "Alibaba (US) Technology Co., Ltd."
+    },
+    {
+      "asn_number": 4134,
+      "asn_name": "China Telecom Backbone"
     },
     {
       "asn_number": 55967,
@@ -43,12 +43,12 @@
       "asn_name": "Zeofast Network"
     },
     {
-      "asn_number": 209650,
-      "asn_name": "Wu Zhiyuan"
-    },
-    {
       "asn_number": 4808,
       "asn_name": "China Unicom Beijing Province Network"
+    },
+    {
+      "asn_number": 209650,
+      "asn_name": "Wu Zhiyuan"
     },
     {
       "asn_number": 213605,
@@ -115,20 +115,20 @@
       "asn_name": "ZTE Corporation"
     },
     {
-      "asn_number": 9929,
-      "asn_name": "China Netcom Backbone"
-    },
-    {
       "asn_number": 137753,
       "asn_name": "Beijing Jingdong Shangke Information Technology Co. Ltd."
     },
     {
-      "asn_number": 134578,
-      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
+      "asn_number": 9929,
+      "asn_name": "China Netcom Backbone"
     },
     {
       "asn_number": 58879,
       "asn_name": "Shanghai ruisu network technology co.,LTD"
+    },
+    {
+      "asn_number": 134578,
+      "asn_name": "UNION FU WAH DIGITAL TECHNOLOGY LIMITED"
     },
     {
       "asn_number": 4842,
@@ -155,10 +155,6 @@
       "asn_name": "IDC, China Telecommunications Corporation"
     },
     {
-      "asn_number": 209294,
-      "asn_name": "Fan Zhang"
-    },
-    {
       "asn_number": 55990,
       "asn_name": "Huawei Cloud Service data center"
     },
@@ -169,6 +165,10 @@
     {
       "asn_number": 24490,
       "asn_name": "Trans-Eurasia Information Network (TEIN2) - SG"
+    },
+    {
+      "asn_number": 209294,
+      "asn_name": "Fan Zhang"
     },
     {
       "asn_number": 137995,
@@ -239,6 +239,10 @@
       "asn_name": "Shenzhen Ping An Communication Technology Co.,Ltd"
     },
     {
+      "asn_number": 204211,
+      "asn_name": "Hangzhou Yingyun Network Technology Co., Ltd."
+    },
+    {
       "asn_number": 139138,
       "asn_name": "Gopay Information Technology Co.,Ltd"
     },
@@ -281,10 +285,6 @@
     {
       "asn_number": 212237,
       "asn_name": "Changgong Zhang"
-    },
-    {
-      "asn_number": 204211,
-      "asn_name": "Hangzhou Yingyun Network Technology Co., Ltd."
     },
     {
       "asn_number": 17428,
@@ -411,6 +411,10 @@
       "asn_name": "Beijing Gu Xiang Information Technology Co.,Ltd."
     },
     {
+      "asn_number": 210352,
+      "asn_name": "Yijia Xu"
+    },
+    {
       "asn_number": 17962,
       "asn_name": "ShenZhen Topway Video Communication Co. Ltd"
     },
@@ -535,10 +539,6 @@
       "asn_name": "XIAO YANG WEN RUI"
     },
     {
-      "asn_number": 210352,
-      "asn_name": "Yijia Xu"
-    },
-    {
       "asn_number": 201674,
       "asn_name": "Wen ZhangYu"
     },
@@ -653,10 +653,6 @@
     {
       "asn_number": 63838,
       "asn_name": "China Telecom Hengyang"
-    },
-    {
-      "asn_number": 63835,
-      "asn_name": "China Telecom HuNan Changsha IDC"
     },
     {
       "asn_number": 63701,
@@ -1089,6 +1085,10 @@
     {
       "asn_number": 7609,
       "asn_name": "Morgan Stanley Management Service (Shanghai) Limited"
+    },
+    {
+      "asn_number": 63835,
+      "asn_name": "China Telecom HuNan Changsha IDC"
     },
     {
       "asn_number": 63727,
@@ -2921,10 +2921,6 @@
     {
       "asn_number": 219207,
       "asn_name": "YIYUAN CHEN"
-    },
-    {
-      "asn_number": 219078,
-      "asn_name": "CHENG JIZHONG"
     },
     {
       "asn_number": 219016,
