@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-09-07 05:30:41",
+    "last_updated_utc": "2026-09-08 05:29:39",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5232
   },
@@ -2612,7 +2612,7 @@
     },
     {
       "asn_number": 137784,
-      "asn_name": "CACloud Services (Shanghai) Co., Ltd."
+      "asn_name": "YBY Technology (Shanghai) Co., Ltd."
     },
     {
       "asn_number": 137759,
@@ -2780,7 +2780,7 @@
     },
     {
       "asn_number": 59265,
-      "asn_name": "China telecom â China Next Generation Internet"
+      "asn_name": "China telecom A?A?A? China Next Generation Internet"
     },
     {
       "asn_number": 58828,
@@ -3308,7 +3308,7 @@
     },
     {
       "asn_number": 198078,
-      "asn_name": ""
+      "asn_name": "Hangzhou Silicon-based Agile Technology Limited"
     },
     {
       "asn_number": 198025,
