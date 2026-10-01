@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-09-30 06:12:08",
+    "last_updated_utc": "2026-10-01 06:42:57",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5232
+    "entry_count": 5231
   },
   "asns": [
     {
@@ -2293,10 +2293,6 @@
     {
       "asn_number": 198588,
       "asn_name": "Hangzhou Tungsten Cloud Technology Co., Ltd."
-    },
-    {
-      "asn_number": 197817,
-      "asn_name": "Yunxiao Bai"
     },
     {
       "asn_number": 18257,
