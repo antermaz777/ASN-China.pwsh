@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-10-15 05:25:35",
+    "last_updated_utc": "2026-10-16 05:18:26",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5231
   },
@@ -2920,7 +2920,7 @@
     },
     {
       "asn_number": 219016,
-      "asn_name": ""
+      "asn_name": "Zizhao Wang trading as Atelier Miku"
     },
     {
       "asn_number": 218985,
@@ -3100,7 +3100,7 @@
     },
     {
       "asn_number": 209565,
-      "asn_name": "JIANYUELAB LTD"
+      "asn_name": "Shanghai Candy Rectangle Technology Co., Ltd."
     },
     {
       "asn_number": 209556,
