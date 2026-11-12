@@ -1,9 +1,9 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-11-11 07:23:34",
+    "last_updated_utc": "2026-11-12 07:52:49",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
-    "entry_count": 5231
+    "entry_count": 5230
   },
   "asns": [
     {
@@ -2889,10 +2889,6 @@
     {
       "asn_number": 219480,
       "asn_name": "shuai wang"
-    },
-    {
-      "asn_number": 219397,
-      "asn_name": "Liangmin Li"
     },
     {
       "asn_number": 219378,
