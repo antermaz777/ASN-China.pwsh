@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-11-13 07:29:34",
+    "last_updated_utc": "2026-11-14 07:14:25",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5230
   },
@@ -1380,7 +1380,7 @@
     },
     {
       "asn_number": 152711,
-      "asn_name": "Suike Information Technology SiChuan Co., Ltd"
+      "asn_name": "APNIC ASN block"
     },
     {
       "asn_number": 152186,
