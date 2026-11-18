@@ -1,7 +1,7 @@
 {
   "metadata": {
     "source_url": "https://bgp.he.net/country/CN",
-    "last_updated_utc": "2026-11-17 08:42:04",
+    "last_updated_utc": "2026-11-18 08:05:19",
     "script_info": "PowerShell Core script based on https://github.com/gftv13879/ASN-China.pwsh",
     "entry_count": 5230
   },
@@ -2988,7 +2988,7 @@
     },
     {
       "asn_number": 214848,
-      "asn_name": "Tianjin Compatible Network Technology Co., Ltd."
+      "asn_name": ""
     },
     {
       "asn_number": 214759,
